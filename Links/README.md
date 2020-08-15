@@ -52,13 +52,13 @@ https://www.cursoemvideo.com/cursos/
 
 ### Desenvolvimento & Programação
 
-- HTML + CSS
+- ### HTML + CSS
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
 https://www.w3schools.com/html/default.asp
 
-- JavaScript
+- ### JavaScript
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
@@ -69,7 +69,7 @@ https://www.w3schools.com/js/default.asp
 https://www.devmedia.com.br/javascript/
 
 
-- Python
+- ### Python
 
 https://www.python.pro.br/
 
