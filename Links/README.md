@@ -9,6 +9,10 @@ Conheça os melhores Grupos de TI no Telegram em 2020 – Atualizado!
 
 https://sempreupdate.com.br/melhores-grupos-de-ti-no-telegram-2020/
 
+### Vagas de TI - Front-end
+
+https://github.com/frontendbr/vagas/issues
+
 
 ### COMANDOS:
 
@@ -83,15 +87,4 @@ https://www.cursoemvideo.com/course/python-3-mundo-2/
 https://www.cursoemvideo.com/course/python-3-mundo-3/
 
 https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
-
-
-### Vagas de TI - Front-end
-
-https://github.com/frontendbr/vagas/issues
-
-
-
-
-
-
 
