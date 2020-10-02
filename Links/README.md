@@ -41,22 +41,22 @@ https://github.com/Gwolner/comandos-git
 ## CURSOS:
 
 
-### Cursos da CISCO
+- ### Cursos da CISCO
 
 https://www.netacad.com/pt-br
 
 
-### Cursos da Microsoft
+- ### Cursos da Microsoft
 
 https://www.netacad.com/pt-br
 
 
-### Cursos da Alura, Cursos de Programação
+- ### Cursos da Alura, Cursos de Programação
 
 https://www.alura.com.br/cursos-online-programacao
 
 
-### Cursos do Prof. Gustavo Guanabara, Curso em Vído
+- ### Cursos do Prof. Gustavo Guanabara, Curso em Vído
 
 https://www.cursoemvideo.com/cursos/
 
@@ -79,7 +79,7 @@ https://www.w3schools.com/js/default.asp
 
 https://www.devmedia.com.br/javascript/
 
-- ### Python
+- ## Python
 
 https://www.python.pro.br/
 
