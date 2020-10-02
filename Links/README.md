@@ -3,18 +3,18 @@
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Bookmarks)
 
-### Grupos Telegram
+## Grupos Telegram
 
 Conheça os melhores Grupos de TI no Telegram em 2020 – Atualizado!
 
 https://sempreupdate.com.br/melhores-grupos-de-ti-no-telegram-2020/
 
-### Vagas de TI - Front-end
+## Vagas de TI - Front-end
 
 https://github.com/frontendbr/vagas/issues
 
 
-### COMANDOS:
+## COMANDOS:
 
 https://github.com/eduardodsr/comandos
 
@@ -37,6 +37,10 @@ https://github.com/eduardodsr/projeto-curso-git/blob/master/git.md
 https://github.com/Gwolner/comandos-git
 
 
+
+## CURSOS:
+
+
 ### Cursos da CISCO
 
 https://www.netacad.com/pt-br
@@ -57,15 +61,15 @@ https://www.alura.com.br/cursos-online-programacao
 https://www.cursoemvideo.com/cursos/
 
 
-### Desenvolvimento & Programação
+### Links de Sites de Desenvolvimento & Programação
 
-- ### HTML + CSS
+- ## HTML + CSS
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
 https://www.w3schools.com/html/default.asp
 
-- ### JavaScript
+- ## JavaScript
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
@@ -74,7 +78,6 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 https://www.w3schools.com/js/default.asp
 
 https://www.devmedia.com.br/javascript/
-
 
 - ### Python
 
